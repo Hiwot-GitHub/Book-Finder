@@ -1,0 +1,12 @@
+body{
+    background-color: #FFFDD0;
+}
+.bookDiv{
+    width: 20rem;
+    height: 12rem;
+    border: solid 2px black;
+    border-radius: 1rem;
+    padding: 0.25rem;
+    margin: 1rem;
+    background-color: #f8f6d7;
+}
